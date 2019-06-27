@@ -1,0 +1,21 @@
+/*
+ Localizable.strings
+ lightweight-ios-localization
+
+ Created by Ma Dong on 2019/6/26.
+ Copyright © 2019 Ma Dong. All rights reserved.
+ */
+
+// title
+"其它" = "Others";
+
+// UI (xib)
+"分享本App" = "Share this App";
+
+// common
+"删除" = "Delete";
+"取消" = "Cancel";
+"确定" = "Confirm";
+"完成" = "Done";
+"下一个" = "Next";
+
